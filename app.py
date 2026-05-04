@@ -87,6 +87,34 @@ def inject_styles() -> None:
         section[data-testid="stSidebar"] * {{
             color: #F5F8FC;
         }}
+        section[data-testid="stSidebar"] div[data-baseweb="input"] > div,
+        section[data-testid="stSidebar"] div[data-baseweb="base-input"] {{
+            background: rgba(8, 17, 29, 0.88);
+            border: 1px solid rgba(255, 255, 255, 0.14);
+            border-radius: 14px;
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+        }}
+        section[data-testid="stSidebar"] div[data-baseweb="input"] input,
+        section[data-testid="stSidebar"] div[data-baseweb="base-input"] input,
+        section[data-testid="stSidebar"] [data-testid="stDateInputField"] input {{
+            color: #F5F8FC !important;
+            -webkit-text-fill-color: #F5F8FC !important;
+            caret-color: #F5F8FC;
+        }}
+        section[data-testid="stSidebar"] [data-testid="stDateInputField"] {{
+            background: rgba(8, 17, 29, 0.88);
+            border: 1px solid rgba(255, 255, 255, 0.14);
+            border-radius: 14px;
+        }}
+        section[data-testid="stSidebar"] [data-testid="stDateInputField"] svg,
+        section[data-testid="stSidebar"] div[data-baseweb="input"] svg,
+        section[data-testid="stSidebar"] div[data-baseweb="base-input"] svg {{
+            fill: #F5F8FC;
+            color: #F5F8FC;
+        }}
+        section[data-testid="stSidebar"] button[kind="secondary"] {{
+            color: #F5F8FC;
+        }}
         .hero {{
             background: linear-gradient(135deg, #FFFFFF 0%, #F7FAFD 72%, #EFF5FB 100%);
             border: 1.5px solid {BORDER};
