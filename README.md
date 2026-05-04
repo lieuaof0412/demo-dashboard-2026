@@ -1,59 +1,52 @@
 # Demo 2026 Sales & Marketing Dashboard
 
-Dashboard Streamlit để làm sạch dữ liệu doanh số/KPI và phân tích hiệu quả kinh doanh, marketing cho công ty Demo năm 2026.
+Dashboard Streamlit public-ready cho dữ liệu kinh doanh và marketing năm 2026 của công ty Demo.
 
-## Thành phần chính
+## Nội dung repo
 
-- ETL cho 2 file đầu vào Excel/CSV: tự phát hiện file sales và file KPI trong project hoặc thư mục con.
-- Chuẩn hóa ngày, số, text, phòng ban, nguồn lead, loại hình căn hộ, vùng miền.
+- `app.py`: app Streamlit chạy trực tiếp.
+- `data/demo_sales_2026.csv`: dữ liệu sales đã làm sạch và ẩn danh.
+- `data/demo_kpi_2026.csv`: dữ liệu KPI đã đối soát Actual và ẩn danh.
+- `requirements.txt`: dependencies để deploy local hoặc Streamlit Community Cloud.
+
+## Tính năng chính
+
+- Chỉ giữ bộ lọc thời gian để giao diện tập trung, dễ xem.
 - Dashboard doanh số:
-  - Tổng doanh số
-  - % đạt KPI toàn công ty
-  - Tổng deal / khách hàng
-  - Doanh số theo tháng, BU, vùng miền, nhu cầu, loại hình căn hộ
-  - KPI vs Actual theo BU
-  - Top nhân sự theo doanh số và theo % KPI
+  - Tổng doanh số, % đạt KPI, tổng deal, giá trị deal trung bình.
+  - Doanh số theo tháng, phòng ban, vùng miền, nhu cầu, loại hình căn hộ.
+  - Top nhân sự theo doanh số và theo % KPI.
+  - KPI vs Actual theo phòng ban.
 - Dashboard marketing:
-  - Doanh thu theo nguồn lead
-  - Số lead / cơ hội theo nguồn
-  - Proxy conversion rate
-  - Doanh thu trung bình / lead
-  - Bảng so sánh hiệu quả nhóm kênh
-- Insight tự động, forecast ngắn hạn và alert KPI.
+  - Doanh thu theo nguồn lead.
+  - Số lead/cơ hội theo nguồn.
+  - Proxy conversion rate.
+  - Doanh thu trung bình trên mỗi lead.
+  - Bubble chart so sánh hiệu suất kênh.
+- Insight tự động:
+  - Xu hướng kinh doanh.
+  - Top performer và mức độ tập trung doanh số.
+  - Kênh marketing hiệu quả nhất.
+  - Cảnh báo KPI dưới 80%.
+  - Khuyến nghị vận hành.
 
-## Cấu trúc project
-
-- `app.py`
-- `ff_dashboard/data.py`
-- `ff_dashboard/analytics.py`
-- `requirements.txt`
-
-## Cách chạy
-
-1. Cài Python 3.11+ nếu máy chưa có.
-2. Cài dependencies:
+## Chạy local
 
 ```powershell
 pip install -r requirements.txt
-```
-
-3. Chạy app:
-
-```powershell
 streamlit run app.py
 ```
 
-4. Mở URL Streamlit được in ra terminal.
+## Deploy lên Streamlit Community Cloud
+
+1. Push repo này lên GitHub public.
+2. Vào [Streamlit Community Cloud](https://share.streamlit.io/).
+3. Chọn repo `lieuaof0412/demo-dashboard-2026`.
+4. Main file path: `app.py`.
+5. Deploy.
 
 ## Ghi chú dữ liệu
 
-- App đang ưu tiên `Doanh số trước VAT` làm Actual để đồng bộ KPI.
-- App hỗ trợ cả tên file tiếng Việt hiện tại và tên file ASCII kiểu `sales_2026_data.csv`, `sales_2026_kpi.csv`.
-- File KPI có một số dòng `Doanh số` lệch so với file giao dịch chi tiết; app tự tái tính Actual từ dữ liệu sales và giữ lại cột chênh lệch để audit.
-- Dashboard marketing hiện dùng `opportunity_id` suy ra từ dữ liệu hợp đồng như một proxy cho lead/cơ hội, vì input hiện tại chưa có file lead funnel thô.
-
-## Mở rộng tiếp
-
-- Bổ sung page forecast sâu hơn theo BU.
-- Thêm phân tầng KPI theo tuần nếu có dữ liệu mục tiêu tuần.
-- Kết nối upload file trực tiếp qua Streamlit thay vì auto-discovery trong thư mục.
+- Bản public này dùng dữ liệu đã được chuẩn hóa và ẩn danh.
+- KPI `Actual` được tính lại từ dữ liệu sales để đảm bảo dashboard nhất quán.
+- Chỉ số conversion marketing là proxy từ `opportunity_id` trong dữ liệu hợp đồng, không phải funnel lead thô.
