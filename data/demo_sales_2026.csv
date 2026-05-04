@@ -1,0 +1,92 @@
+deal_id,contract_date,customer_name,customer_key,lead_source,marketing_channel,department,salesperson,need_group,apartment_group,region,contract_type,revenue_before_vat,opportunity_id,period_start,year,month,quarter
+DEAL-0005,2026-01-05,Customer 043,Customer 043,Facebook,Paid Social,BU 1,Consultant 08,Cải tạo thô + nội thất,Khác,Miền Bắc,Thiết kế,11111111.0,OPP-0047,2026-01-01,2026,1,1
+DEAL-0005,2026-01-05,Customer 043,Customer 043,Facebook,Paid Social,BU 1,Consultant 08,Cải tạo thô + nội thất,Khác,Miền Bắc,Thi công,206074074.0,OPP-0047,2026-01-01,2026,1,1
+DEAL-0056,2026-01-05,Customer 032,Customer 032,Customer,Existing Customer,BU HCM,Consultant 07,Làm nội thất lần đầu,Chưa phân loại,Miền Nam,Gia công,123000000.0,OPP-0035,2026-01-01,2026,1,1
+DEAL-0010,2026-01-08,Customer 051,Customer 051,Facebook,Paid Social,BU 3,Consultant 24,Cải tạo nội thất,Khác,Miền Bắc,Thi công,180833333.0,OPP-0055,2026-01-01,2026,1,1
+DEAL-0052,2026-01-08,Customer 011,Customer 011,Facebook,Paid Social,BU 2,Consultant 06,Cải tạo thô + nội thất,Khác,Miền Bắc,Thiết kế,20833333.0,OPP-0012,2026-01-01,2026,1,1
+DEAL-0053,2026-01-14,Customer 058,Customer 058,Facebook,Paid Social,BU 3,Consultant 02,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,13597222.0,OPP-0062,2026-01-01,2026,1,1
+DEAL-0053,2026-01-14,Customer 058,Customer 058,Facebook,Paid Social,BU 3,Consultant 02,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thi công,233418492.0,OPP-0062,2026-01-01,2026,1,1
+DEAL-0068,2026-01-16,Customer 069,Customer 069,Facebook,Paid Social,BU 1,Consultant 21,Cải tạo nội thất,Chung cư,Miền Nam,Thuê nội thất,6922000.0,OPP-0073,2026-01-01,2026,1,1
+DEAL-0001,2026-01-19,Customer 012,Customer 012,Facebook,Paid Social,BU 1,Consultant 21,Cải tạo nội thất,Villa / Biệt thự,Miền Bắc,Đồ rời,186953296.0,OPP-0013,2026-01-01,2026,1,1
+DEAL-0061,2026-01-19,Customer 007,Customer 007,Reference,Referral,BU HCM,Consultant 10,Cải tạo thô + nội thất,Villa / Biệt thự,Miền Nam,Thi công,651700420.0,OPP-0007,2026-01-01,2026,1,1
+DEAL-0013,2026-01-20,Customer 025,Customer 025,Facebook,Paid Social,BU 1,Consultant 22,Cải tạo nội thất,Chung cư,Miền Bắc,Thi công,337115981.0,OPP-0027,2026-01-01,2026,1,1
+DEAL-0071,2026-01-20,Customer 006,Customer 006,Facebook,Paid Social,BU 1,Consultant 26,Cải tạo nội thất,Khác,Miền Bắc,Thi công,328703000.0,OPP-0006,2026-01-01,2026,1,1
+DEAL-0004,2026-01-22,Customer 009,Customer 009,Website,Owned Digital,BU 3,Consultant 13,Làm nội thất lần đầu,Khác,Miền Bắc,Thiết kế,2750000.0,OPP-0010,2026-01-01,2026,1,1
+DEAL-0004,2026-01-22,Customer 009,Customer 009,Website,Owned Digital,BU 3,Consultant 13,Làm nội thất lần đầu,Khác,Miền Bắc,Thi công,42229630.0,OPP-0010,2026-01-01,2026,1,1
+DEAL-0054,2026-01-23,Customer 001,Customer 001,Zalo,Owned CRM,BU HCM,Consultant 10,Cải tạo nội thất,Khác,Miền Nam,Thi công,86677670.0,OPP-0001,2026-01-01,2026,1,1
+DEAL-0062,2026-01-23,Customer 013,Customer 013,Partner,Partnership,BU HCM,Consultant 10,Làm nội thất lần đầu,Văn phòng,Miền Bắc,Thi công,21540000.0,OPP-0014,2026-01-01,2026,1,1
+DEAL-0016,2026-01-26,Customer 018,Customer 018,Facebook,Paid Social,BU 1,Consultant 19,Cải tạo thô + nội thất,Khác,Miền Bắc,Thiết kế,25194444.0,OPP-0019,2026-01-01,2026,1,1
+DEAL-0016,2026-01-26,Customer 018,Customer 018,Facebook,Paid Social,BU 1,Consultant 19,Cải tạo thô + nội thất,Khác,Miền Bắc,Thi công,419351163.0,OPP-0019,2026-01-01,2026,1,1
+DEAL-0063,2026-01-28,Customer 008,Customer 008,Reference,Referral,BU HCM,Consultant 07,Cải tạo thô + nội thất,Chung cư,Miền Nam,Thi công,287266174.0,OPP-0009,2026-01-01,2026,1,1
+DEAL-0017,2026-01-29,Customer 055,Customer 055,Facebook,Paid Social,BU 1,Consultant 05,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Thiết kế,10694444.0,OPP-0059,2026-01-01,2026,1,1
+DEAL-0007,2026-02-02,Customer 067,Customer 067,Reference,Referral,BU 1,Consultant 21,Cải tạo thô + nội thất,Văn phòng,Miền Bắc,Thi công,19097222.0,OPP-0071,2026-02-01,2026,2,1
+DEAL-0012,2026-02-02,Customer 047,Customer 047,Facebook,Paid Social,BU 1,Consultant 21,Cải tạo nội thất,Khác,Miền Bắc,Hợp đồng khung,92592593.0,OPP-0051,2026-02-01,2026,2,1
+DEAL-0014,2026-02-05,Customer 060,Customer 060,Facebook,Paid Social,BU 3,Consultant 24,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Hợp đồng khung,416666667.0,OPP-0064,2026-02-01,2026,2,1
+DEAL-0019,2026-02-05,Customer 022,Customer 022,Sale tự kiếm,Sales Prospecting,BU 3,Consultant 24,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Hợp đồng khung,1111111111.0,OPP-0024,2026-02-01,2026,2,1
+DEAL-0065,2026-02-05,Customer 062,Customer 062,Zalo,Owned CRM,BU HCM,Consultant 17,Cải tạo nội thất,Khác,Miền Nam,Thiết kế,3666667.0,OPP-0066,2026-02-01,2026,2,1
+DEAL-0069,2026-02-06,Customer 041,Customer 041,Facebook,Paid Social,BU 1,Consultant 21,Cải tạo nội thất,Chưa phân loại,Miền Nam,Thuê nội thất,7051852.0,OPP-0045,2026-02-01,2026,2,1
+DEAL-0018,2026-02-09,Customer 048,Customer 048,Facebook,Paid Social,BU 3,Consultant 24,Cải tạo thô + nội thất,Khác,Miền Bắc,Hợp đồng khung,92592593.0,OPP-0052,2026-02-01,2026,2,1
+DEAL-0070,2026-02-09,Customer 063,Customer 063,Facebook,Paid Social,BU 1,Consultant 01,Làm nội thất lần đầu,Khác,Miền Bắc,Thiết kế,109662037.0,OPP-0067,2026-02-01,2026,2,1
+DEAL-0064,2026-02-11,Customer 057,Customer 057,Giới thiệu,Referral,BU HCM,Consultant 10,Cải tạo nội thất,Khác,Miền Nam,Thi công,71395400.0,OPP-0061,2026-02-01,2026,2,1
+DEAL-0021,2026-02-24,Customer 070,Customer 070,Facebook,Paid Social,BU 1,Consultant 08,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,3703704.0,OPP-0074,2026-02-01,2026,2,1
+DEAL-0021,2026-02-24,Customer 070,Customer 070,Facebook,Paid Social,BU 1,Consultant 08,Cải tạo nội thất,Chung cư,Miền Bắc,Thi công,73240741.0,OPP-0074,2026-02-01,2026,2,1
+DEAL-0015,2026-02-25,Customer 066,Customer 066,Facebook,Paid Social,BU 2,Consultant 15,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,6111111.0,OPP-0070,2026-02-01,2026,2,1
+DEAL-0015,2026-02-25,Customer 066,Customer 066,Facebook,Paid Social,BU 2,Consultant 15,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thi công,53205179.0,OPP-0070,2026-02-01,2026,2,1
+DEAL-0006,2026-02-27,Customer 034,Customer 034,Facebook,Paid Social,BU 1,Consultant 05,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,2777778.0,OPP-0036,2026-02-01,2026,2,1
+DEAL-0006,2026-02-27,Customer 034,Customer 034,Facebook,Paid Social,BU 1,Consultant 05,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thi công,28240741.0,OPP-0037,2026-02-01,2026,2,1
+DEAL-0008,2026-02-27,Customer 036,Customer 036,Facebook,Paid Social,BU 1,Consultant 26,Cải tạo nội thất,Khác,Miền Bắc,Hợp đồng khung,277777778.0,OPP-0039,2026-02-01,2026,2,1
+DEAL-0020,2026-02-27,Customer 016,Customer 016,Hotline,Owned CRM,BU 2,Consultant 15,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,8333333.0,OPP-0017,2026-02-01,2026,2,1
+DEAL-0020,2026-02-27,Customer 016,Customer 016,Hotline,Owned CRM,BU 2,Consultant 15,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thi công,62801758.0,OPP-0017,2026-02-01,2026,2,1
+DEAL-0002,2026-03-02,Customer 021,Customer 021,Sale tự kiếm,Sales Prospecting,BU 3,Consultant 20,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,8775000.0,OPP-0022,2026-03-01,2026,3,1
+DEAL-0024,2026-03-03,Customer 050,Customer 050,Facebook,Paid Social,BU 2,Consultant 06,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Thiết kế,15740741.0,OPP-0054,2026-03-01,2026,3,1
+DEAL-0022,2026-03-05,Customer 004,Customer 004,Zalo,Owned CRM,BU 1,Consultant 21,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,11851852.0,OPP-0004,2026-03-01,2026,3,1
+DEAL-0023,2026-03-05,Customer 053,Customer 053,Facebook,Paid Social,BU 1,Consultant 01,Cải tạo nội thất,Khác,Miền Bắc,Thiết kế,2777778.0,OPP-0057,2026-03-01,2026,3,1
+DEAL-0055,2026-03-06,Customer 031,Customer 031,Reference,Referral,BU HCM,Consultant 10,Cải tạo nội thất,Văn phòng,Khác,Thi công,68913000.0,OPP-0033,2026-03-01,2026,3,1
+DEAL-0061,2026-03-06,Customer 007,Customer 007,Reference,Referral,BU HCM,Consultant 10,Cải tạo nội thất,Khác,Miền Nam,Thi công,55550000.0,OPP-0008,2026-03-01,2026,3,1
+DEAL-0025,2026-03-10,Customer 026,Customer 026,Sale tự kiếm,Sales Prospecting,BU 1,Consultant 22,Làm nội thất lần đầu,Khác,Miền Bắc,Thiết kế,60958333.0,OPP-0028,2026-03-01,2026,3,1
+DEAL-0026,2026-03-10,Customer 017,Customer 017,Hotline,Owned CRM,BU 1,Consultant 21,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,2777778.0,OPP-0018,2026-03-01,2026,3,1
+DEAL-0027,2026-03-11,Customer 059,Customer 059,Facebook,Paid Social,BU 1,Consultant 01,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,12725000.0,OPP-0063,2026-03-01,2026,3,1
+DEAL-0028,2026-03-14,Customer 054,Customer 054,Shome,Partnership,BU 2,Consultant 15,Làm nội thất lần đầu,Khác,Miền Bắc,Thi công,223953519.0,OPP-0058,2026-03-01,2026,3,1
+DEAL-0051,2026-03-14,Customer 024,Customer 024,MKT,Marketing Other,BU 1,Consultant 21,Khác,Khách sạn,Miền Bắc,Thuê nội thất,108311713.0,OPP-0026,2026-03-01,2026,3,1
+DEAL-0029,2026-03-16,Customer 035,Customer 035,Facebook,Paid Social,BU 2,Consultant 15,Cải tạo nội thất,Khác,Miền Bắc,Thi công,9259259.0,OPP-0038,2026-03-01,2026,3,1
+DEAL-0030,2026-03-16,Customer 052,Customer 052,Facebook,Paid Social,BU 1,Consultant 26,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Thiết kế,6111111.0,OPP-0056,2026-03-01,2026,3,1
+DEAL-0024,2026-03-18,Customer 050,Customer 050,Facebook,Paid Social,BU 2,Consultant 06,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Thi công,157133375.0,OPP-0054,2026-03-01,2026,3,1
+DEAL-0032,2026-03-18,Customer 019,Customer 019,Facebook,Paid Social,BU 2,Consultant 15,Cải tạo thô + nội thất,Khác,Miền Bắc,Thiết kế,2222222.0,OPP-0020,2026-03-01,2026,3,1
+DEAL-0032,2026-03-18,Customer 019,Customer 019,Facebook,Paid Social,BU 2,Consultant 15,Cải tạo thô + nội thất,Khác,Miền Bắc,Thi công,74832500.0,OPP-0020,2026-03-01,2026,3,1
+DEAL-0033,2026-03-19,Customer 044,Customer 044,Facebook,Paid Social,BU 1,Consultant 19,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,2777778.0,OPP-0048,2026-03-01,2026,3,1
+DEAL-0011,2026-03-20,Customer 028,Customer 028,Reference,Referral,BU 3,Consultant 12,Làm nội thất lần đầu,Khác,Miền Bắc,Thi công,1297390728.0,OPP-0030,2026-03-01,2026,3,1
+DEAL-0023,2026-03-23,Customer 053,Customer 053,Facebook,Paid Social,BU 1,Consultant 01,Làm nội thất lần đầu,Khác,Miền Bắc,Thi công,30971411.0,OPP-0057,2026-03-01,2026,3,1
+DEAL-0034,2026-03-23,Customer 064,Customer 064,Sale tự kiếm,Sales Prospecting,BU 2,Consultant 15,Cải tạo nội thất,Khác,Miền Bắc,Thiết kế,2777778.0,OPP-0068,2026-03-01,2026,3,1
+DEAL-0031,2026-03-24,Customer 029,Customer 029,Sale tự kiếm,Sales Prospecting,BU 1,Consultant 21,Làm nội thất lần đầu,Showroom,Miền Bắc,Thiết kế,2777778.0,OPP-0031,2026-03-01,2026,3,1
+DEAL-0009,2026-03-26,Customer 010,Customer 010,Hotline,Owned CRM,BU 2,Consultant 15,Khác,Văn phòng,Miền Bắc,Gia công,16277778.0,OPP-0011,2026-03-01,2026,3,1
+DEAL-0003,2026-03-27,Customer 002,Customer 002,Sale tự kiếm,Sales Prospecting,BU 1,Consultant 22,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thi công,36240875.0,OPP-0002,2026-03-01,2026,3,1
+DEAL-0066,2026-03-28,Customer 049,Customer 049,Facebook,Paid Social,BU HCM,Consultant 23,Làm nội thất lần đầu,Chung cư,Miền Nam,Thiết kế,9000000.0,OPP-0053,2026-03-01,2026,3,1
+DEAL-0057,2026-03-29,Customer 046,Customer 046,Customer,Existing Customer,BU HCM,Consultant 04,Cải tạo nội thất,Văn phòng,Miền Nam,Thiết kế,76963000.0,OPP-0050,2026-03-01,2026,3,1
+DEAL-0037,2026-03-30,Customer 061,Customer 061,Facebook,Paid Social,BU 2,Consultant 14,Cải tạo thô + nội thất,Khác,Miền Bắc,Thiết kế,23425926.0,OPP-0065,2026-03-01,2026,3,1
+DEAL-0058,2026-03-30,Customer 039,Customer 039,Customer,Existing Customer,BU HCM,Consultant 10,Cải tạo nội thất,Khách sạn,Miền Nam,Thi công,7826111986.0,OPP-0042,2026-03-01,2026,3,1
+DEAL-0003,2026-03-31,Customer 003,Customer 003,Sale tự kiếm,Sales Prospecting,BU 1,Consultant 22,Thi công,Chung cư,Miền Bắc,Thi công,40674745.0,OPP-0003,2026-03-01,2026,3,1
+DEAL-0033,2026-03-31,Customer 044,Customer 044,Facebook,Paid Social,BU 1,Consultant 19,Cải tạo nội thất,Chung cư,Miền Bắc,Thi công,118341568.0,OPP-0048,2026-03-01,2026,3,1
+DEAL-0036,2026-03-31,Customer 045,Customer 045,Facebook,Paid Social,BU 1,Consultant 08,Cải tạo thô + nội thất,Khác,Miền Bắc,Thiết kế,12222222.0,OPP-0049,2026-03-01,2026,3,1
+DEAL-0057,2026-03-31,Customer 046,Customer 046,Customer,Existing Customer,BU HCM,Consultant 10,Cải tạo nội thất,Văn phòng,Miền Nam,Thi công,991921637.0,OPP-0050,2026-03-01,2026,3,1
+DEAL-0057,2026-03-31,Customer 046,Customer 046,Customer,Existing Customer,BU 1,Consultant 19,Cải tạo nội thất,Văn phòng,Miền Nam,Thi công,991921637.0,OPP-0050,2026-03-01,2026,3,1
+DEAL-0039,2026-04-02,Customer 056,Customer 056,Facebook,Paid Social,BU 3,Consultant 24,Làm nội thất lần đầu,Khác,Miền Bắc,Thiết kế,9833333.0,OPP-0060,2026-04-01,2026,4,2
+DEAL-0038,2026-04-03,Customer 014,Customer 014,Reference,Referral,BU 3,Consultant 12,Cải tạo thô + nội thất,Villa / Biệt thự,Miền Bắc,Thiết kế,87795679.0,OPP-0015,2026-04-01,2026,4,2
+DEAL-0040,2026-04-03,Customer 023,Customer 023,Facebook,Paid Social,BU 2,Consultant 11,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,4796296.0,OPP-0025,2026-04-01,2026,4,2
+DEAL-0035,2026-04-04,Customer 027,Customer 027,Giới thiệu,Referral,BU 3,Consultant 20,Khác,Khách sạn,Miền Bắc,Thiết kế,24148148.0,OPP-0029,2026-04-01,2026,4,2
+DEAL-0042,2026-04-08,Customer 014,Customer 014,Reference,Referral,BU 3,Consultant 12,Cải tạo thô,Villa / Biệt thự,Miền Bắc,Thi công,1557896621.0,OPP-0015,2026-04-01,2026,4,2
+DEAL-0043,2026-04-08,Customer 065,Customer 065,Facebook,Paid Social,BU 3,Consultant 18,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,1851852.0,OPP-0069,2026-04-01,2026,4,2
+DEAL-0067,2026-04-09,Customer 038,Customer 038,Zalo,Owned CRM,BU HCM,Consultant 04,Cải tạo nội thất,Chung cư,Miền Nam,Thiết kế,1950000.0,OPP-0041,2026-04-01,2026,4,2
+DEAL-0026,2026-04-10,Customer 017,Customer 017,Hotline,Owned CRM,BU 1,Consultant 21,Cải tạo nội thất,Chung cư,Miền Bắc,Thi công,66510816.0,OPP-0018,2026-04-01,2026,4,2
+DEAL-0059,2026-04-11,Customer 033,Customer 033,Partner,Partnership,BU HCM,Consultant 04,Khác,Khác,Miền Nam,Gia công,246000000.0,OPP-0034,2026-04-01,2026,4,2
+DEAL-0002,2026-04-13,Customer 021,Customer 021,Sale tự kiếm,Sales Prospecting,BU 3,Consultant 20,Cải tạo nội thất,Chung cư,Miền Bắc,Thi công,196830361.0,OPP-0023,2026-04-01,2026,4,2
+DEAL-0041,2026-04-14,Customer 042,Customer 042,Sale tự kiếm,Sales Prospecting,BU 3,Consultant 24,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,4974074.0,OPP-0046,2026-04-01,2026,4,2
+DEAL-0044,2026-04-14,Customer 040,Customer 040,Facebook,Paid Social,BU 1,Consultant 01,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Thiết kế,7083333.0,OPP-0044,2026-04-01,2026,4,2
+DEAL-0045,2026-04-16,Customer 030,Customer 030,Facebook,Paid Social,BU 1,Consultant 01,Cải tạo thô + nội thất,Khác,Miền Bắc,Thiết kế,52777778.0,OPP-0032,2026-04-01,2026,4,2
+DEAL-0040,2026-04-17,Customer 023,Customer 023,Facebook,Paid Social,BU 2,Consultant 11,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thi công,46081895.0,OPP-0025,2026-04-01,2026,4,2
+DEAL-0060,2026-04-17,Customer 039,Customer 039,Partner,Partnership,BU HCM,Consultant 10,Cải tạo nội thất,Khách sạn,Miền Nam,Thi công,5047581502.0,OPP-0043,2026-04-01,2026,4,2
+DEAL-0046,2026-04-21,Customer 020,Customer 020,Facebook,Paid Social,BU 1,Consultant 22,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,12833333.0,OPP-0021,2026-04-01,2026,4,2
+DEAL-0047,2026-04-23,Customer 015,Customer 015,Facebook,Paid Social,BU 1,Consultant 22,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,5870370.0,OPP-0016,2026-04-01,2026,4,2
+DEAL-0048,2026-04-23,Customer 005,Customer 005,Facebook,Paid Social,BU 3,Consultant 18,Làm nội thất lần đầu,Chung cư,Miền Bắc,Thiết kế,4629630.0,OPP-0005,2026-04-01,2026,4,2
+DEAL-0050,2026-04-23,Customer 068,Customer 068,Giới thiệu,Referral,BU 1,Consultant 25,Cải tạo nội thất,Chung cư,Miền Bắc,Thiết kế,6000000.0,OPP-0072,2026-04-01,2026,4,2
+DEAL-0066,2026-04-23,Customer 049,Customer 049,Facebook,Paid Social,BU HCM,Consultant 23,Làm nội thất lần đầu,Chung cư,Miền Nam,Thi công,91670000.0,OPP-0053,2026-04-01,2026,4,2
+DEAL-0049,2026-04-24,Customer 037,Customer 037,Facebook,Paid Social,BU 1,Consultant 08,Cải tạo thô + nội thất,Chung cư,Miền Bắc,Thiết kế,3703704.0,OPP-0040,2026-04-01,2026,4,2
